@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravirajR&label=Profile%20views&color=0e75b6&style=flat" alt="ravirajR" /> </p>
 
-<p align="left"> <a href="https://twitter.com/Ravi041" target="_blank"><img src="https://img.shields.io/twitter/follow/Ravi0541?logo=twitter&style=for-the-badge" alt="Ravi0541"></a> </p>
+<p align="left"> <a href="https://twitter.com/Ravi0541" target="_blank"><img src="https://img.shields.io/twitter/follow/Ravi0541?logo=twitter&style=for-the-badge" alt="Ravi0541"></a> </p>
 
 
 
